@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"djguruwap",
+        "MONGO_PASS":"password1234",
+        "SECRET":"LIFE TA HELLO HOYE GELO"
+    }
+}
